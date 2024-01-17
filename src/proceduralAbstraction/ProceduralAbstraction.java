@@ -138,7 +138,7 @@ public class ProceduralAbstraction {
         System.out.printf("The returning value is: %b.", Test_Null);
 
         System.out.println("\n\nTesting the fourth Matrix which is a not square matrix.");
-        boolean Not_Square = isMatrixNice(test_null);
+        boolean Not_Square = isMatrixNice(not_square);
         System.out.printf("The returning value is: %b.", Not_Square);
     }
 }
